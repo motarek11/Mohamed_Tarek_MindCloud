@@ -8,4 +8,6 @@ My favourit subteam = "software"
 techknecal intested = "Vesion & Navigation & maintanance"
 Non_Teachnecal Interstef = "PR & Documentation"
 Fav. Sport = "FootBall & Gym"
+FootBall Team =" Barcsa & AL Ahly"
+Fav Player ="Messi & Salah & Mardona"
 
