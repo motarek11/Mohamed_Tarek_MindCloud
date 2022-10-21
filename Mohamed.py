@@ -1,13 +1,14 @@
 #import opencv
 
-my name = "mohamed tarek"
-my age = 19
-my department = "communication & electronics"
-My Graduation Year = 2026
-My favourit subteam = "software"
-techknecal intested = "Vesion & Navigation & maintanance"
-Non_Teachnecal Interstef = "PR & Documentation"
-Fav. Sport = "FootBall & Gym"
-FootBall Team =" Barcsa & AL Ahly"
-Fav Player ="Messi & Salah & Mardona"
+my_name = "mohamed tarek"
+my_age = 19
+my_department = "communication & electronics"
+My_GraduationYear = 2026
+Myfavouritsubteam = "software"
+techknecalintested = "Vesion & Navigation & maintanance"
+Non_TeachnecalInterstef = "PR & Documentation"
+FavSport = "FootBall & Gym"
+FootBallTeam =" Barcsa & AL Ahly"
+FavPlayer ="Messi & Salah & Mardona"
+#i make 1 branch
 
